@@ -1,0 +1,60 @@
+{
+    "name": "Qureshi Owais",
+    "position": "Javascript Developer",
+    "email": "qureshiowais91@gmail.com",
+    "websites": {
+        "fiverr": "https://www.fiverr.com/users/qureshiowais91",
+        "blog": "https://www.example.com/blog/qureshiowais91",
+        "linkedin": "https://www.linkedin.com/in/qureshiowais91"
+    },
+    "experience": [
+        {
+            "title": "Single Page Web APP, Google API Integration",
+            "start_date": "2022-07-02",
+            "end_date": "2022-07-30",
+            "description": "Developed a single page web application that allows users to send data from a WordPress website to Google Sheet, calculate data in Google Sheet, and send back data to WordPress website using Google API."
+        },
+        {
+            "title": "Fetch Information From Snov.io",
+            "start_date": "2022-06-10",
+            "end_date": "2022-07-01",
+            "description": "Accessed Snov.io API and fetched data, updated data every 5 minutes."
+        },
+        {
+            "title": "Upload Images From Folder to Google Photos",
+            "start_date": "2022-05-09",
+            "end_date": "2022-05-23",
+            "description": "Developed a script that uploads images from a local folder to Google Photos periodically."
+        }
+    ],
+    "skills": [
+        "HTML/CSS",
+        "Javascript",
+        "Bootstrap",
+        "Linux"
+    ],
+    "education": {
+        "degree": "Bachelor of Computer Application",
+        "institution": "Narmada College of Science and Commerce, Bharuch",
+        "start_date": "2019-09-01",
+        "end_date": "2022-06-30"
+    },
+    "certifications": [
+        {
+            "title": "Object-Oriented Programming with Java",
+            "issuer": "LinkedIn"
+        },
+        {
+            "title": "Learning PHP",
+            "issuer": "LinkedIn"
+        },
+        {
+            "title": "Learning Java Threads",
+            "issuer": "LinkedIn"
+        },
+        {
+            "title": "HTTP Essential Training",
+            "issuer": "LinkedIn"
+        }
+    ]
+}
